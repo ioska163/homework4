@@ -1,5 +1,5 @@
 my_string = input('Введите текст: ')
-print(my_string[0:12])
+print(len(my_string))
 print(my_string.upper())
 print(my_string.upper().lower())
 print(my_string.replace(' ',''))
